@@ -1,0 +1,32 @@
+.nav-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav-options{
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 21px;
+    margin: 5px;
+    padding: 10px;
+    color: #ffff;
+    
+}
+
+.logo{
+font-size: 25px;
+line-height: 29px;
+color: #FFFFFF;
+}
+.btn{
+    width: 231px;
+    height: 54px;
+    background: linear-gradient(180deg, #2ED978 0%, #96F78B 100%);
+    border-radius: 40px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 18px;
+}
