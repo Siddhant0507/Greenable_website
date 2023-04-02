@@ -19,27 +19,27 @@ function Homepage() {
   };
   const data = [
     {
-      question: "What is CharzIt ?",
+      question: "What is Greenable ?",
       answer:
         "CharzIt is charging station platform for electric cars from various well-know and trusted brands. The Price is cheap, it doesn't drain the pocket too, we are environmentally friendly, easy to find anywhere, our products are good, our service has been proven to be the best",
     },
     {
-      question: " How CharzIt Work ?",
+      question: " How Greenable Work ?",
       answer:
         "You can use the app to find the nearest charging station and book the charging slot before even going to there. the app has easy ui to use and useful info to provide dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laboru.",
     },
     {
-      question: "is it CharzIt free ?",
+      question: "is it Greenable free ?",
       answer:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in vo",
     },
     {
-      question: "is it CharzIt free ?",
+      question: "is it Greenable free ?",
       answer:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in vo",
     },
     {
-      question: "is it CharzIt free ?",
+      question: "is it Greenable free ?",
       answer:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in vo",
     },
@@ -204,6 +204,19 @@ function Homepage() {
           See all Projects <AiOutlineArrowRight />
         </button>
       </div>
+
+
+      {/* card Reviews  */}
+    <div className="review-div">
+    <div className="review-title">
+      <h2 className="review-heading">What they say about Greenable</h2>
+      <p className="review-desc">More than 3000 users have been helped by World Online Course.</p>
+    </div>
+    <div className="review-card">
+      <div className="review-card-body"></div>
+    </div>
+    </div>
+
 
       {/* FAQ section */}
 

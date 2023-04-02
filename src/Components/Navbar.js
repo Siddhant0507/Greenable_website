@@ -10,10 +10,10 @@ function Navbar() {
 
         <nav className="nav-menu">
           <Link to='/' className="nav-options">Home</Link>
-          <a href="/Contact" className="nav-options">ContactUs</a>
-          <a href="About" className="nav-options">AboutUs</a>
           <a href="/SolarPanel" className="nav-options">Solar Panel</a>
           <a href="/EVcharging" className="nav-options">EV Charging </a>
+          <a href="About" className="nav-options">AboutUs</a>
+          <a href="/Contact" className="nav-options">ContactUs</a>
         </nav>
 
         <button className="btn">Request a demo < AiOutlineArrowRight/> </button>
