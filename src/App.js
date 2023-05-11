@@ -14,8 +14,7 @@ function App() {
         <Route path="Contact" element={<Contact />} />
         <Route path="About" element={<About/>} />
         <Route path="SolarPanel" element={<SolarPanel />} />
-        <Route path="EVcharging" element={<EVcharging />} />
-      
+        <Route path="EVcharging" element={<EVcharging />} />  
     </Routes>
   </BrowserRouter>
   );

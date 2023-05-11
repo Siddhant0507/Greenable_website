@@ -5,14 +5,19 @@
     align-items: center;
 }
 .nav-options{
-    text-decoration: none;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 21px;
     margin: 5px;
     padding: 10px;
-    color: #ffff;
-    
+    display: inline;
+}
+.navLink{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 20px;
+}
+.active{
+    color: #2ED978;
+    font-weight: 700;
+    font-size: 25;
 }
 
 .logo{

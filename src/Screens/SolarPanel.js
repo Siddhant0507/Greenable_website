@@ -8,113 +8,15 @@ function SolarPanel() {
     <>
       <Navbar />
       <div className="solar-div">
-        <h1 className="solar-heading">Solar Panels and Battery Storage</h1>
+        <h1 className="solar-heading">Solar Power 101  A Quick Rundown of the Process </h1>
       </div>
 
-      {/* first div */}
-      <div className="container">
-        <img src="../solar1.png" alt="big_image" className="ev1" />
-        <div className="text-div">
-          <h1 className="ev-heading">Solar PV Panels</h1>
-          <p className="big-desc">
-            Lorem Ipsum is simply dummy text of the printing ntypesetting
-            industry. Lorem Ipsum has been the industry's standarddummy text
-            ever since the 1500s, when an unknown printer took a alley of type
-            and scrambled it to make a type specimen book. xczn,ml lorem ipsum
-          </p>
-        </div>
-      </div>
-      <div className="small-container">
-        <img src="../solar2.png" alt="big_image" className="ev2" />
-
-        <div>
-          <p className="small-desc">
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s.
-          </p>
-          <button className="get-btn">Get a Quote today .</button>
-        </div>
+      <div className="cotation">
+        <h2 className="incentiveHeading">Financing Options and Solar Incentives</h2>
+        <p>There are a variety of incentives available for solar PV systems, including tax credits, rebates, and grants. We can help you understand and take advantage of these incentives, reducing the cost of your solar PV system and maximizing your return on investment.</p>
       </div>
 
-      {/* second div */}
-      <div className="container">
-        <div className="text-div">
-          <h1 className="ev-heading">Solar Panel Installation</h1>
-          <p className="big-desc">
-            Lorem Ipsum is simply dummy text of the printing ntypesetting
-            industry. Lorem Ipsum has been the industry's standarddummy text
-            ever since the 1500s, when an unknown printer took a alley of type
-            and scrambled it to make a type specimen book. xczn,ml lorem ipsum
-          </p>
-        </div>
-        <img src="../solar3.png" alt="big_image" className="ev1" />
-      </div>
-
-      <div className="small-container1">
-        <div>
-          <p className="big-desc1">
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s.
-          </p>
-          <button className="get-btn">Get a Quote today</button>
-        </div>
-        <img src="../solar4.jpg" alt="big_image" className="ev2" />
-      </div>
-
-      {/* third div */}
-
-      <div className="container">
-        <img src="../solar5.jpg" alt="big_image" className="ev1" />
-        <div className="text-div">
-          <h1 className="ev-heading">Solar PV Panels</h1>
-          <p className="big-desc">
-            Lorem Ipsum is simply dummy text of the printing ntypesetting
-            industry. Lorem Ipsum has been the industry's standarddummy text
-            ever since the 1500s, when an unknown printer took a alley of type
-            and scrambled it to make a type specimen book. xczn,ml lorem ipsum
-          </p>
-        </div>
-      </div>
-      <div className="small-container2">
-        <img src="../solar6.jpg" alt="big_image" className="ev2" />
-
-        <div>
-          <p className="small-desc">
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s.
-          </p>
-          <button className="get-btn">Get a Quote today .</button>
-        </div>
-      </div>
-
-      {/* fourth div */}
-      <div className="container">
-        <div className="text-div">
-          <h1 className="ev-heading">Solar Panel Installation</h1>
-          <p className="big-desc">
-            Lorem Ipsum is simply dummy text of the printing ntypesetting
-            industry. Lorem Ipsum has been the industry's standarddummy text
-            ever since the 1500s, when an unknown printer took a alley of type
-            and scrambled it to make a type specimen book. xczn,ml lorem ipsum
-          </p>
-        </div>
-        <img src="../solar7.jpg" alt="big_image" className="ev1" />
-      </div>
-
-      <div className="small-container3">
-        <div>
-          <p className="big-desc1">
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s.
-          </p>
-          <button className="get-btn">Get a Quote today</button>
-        </div>
-        <img src="../solar8.jpg" alt="big_image" className="ev2" />
-      </div>
+      <img src="../frame3.png" alt="img"/>
 
 <Footer/>
     </>

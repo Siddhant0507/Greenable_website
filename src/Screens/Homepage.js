@@ -213,7 +213,10 @@ function Homepage() {
       <p className="review-desc">More than 3000 users have been helped by World Online Course.</p>
     </div>
     <div className="review-card">
-      <div className="review-card-body"></div>
+      <div className="review-card-body">
+        <h2 className="review1">“Studying at WOC is fun, the curriculum is complete, the instructors are competent, and the assignments given are also relevant to scope of work.”</h2>
+          
+      </div>
     </div>
     </div>
 
